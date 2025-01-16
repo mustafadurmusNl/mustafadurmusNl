@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong ba
 ## 🚀 Highlighted Projects
 Here are some of my favorite projects:
 - [**Book Cafe**](https://github.com/mustafadurmusNl/Book-Cafe):Book Cafe is a full-stack React and Node.js app offering personalized book suggestions, author recommendations, and online reading options for a fast, tailored, and seamless book exploration experience.
-- [**Meal Recipe App**]([https://github.com/yourusername/project2](https://github.com/mustafadurmusNl/meal-recipe-react-app)): Meal Recipe App is a React frontend project that helps users discover, view, and favorite recipes from TheMealDB, built with React and Context API.
+- [**Meal Recipe App**](https://github.com/mustafadurmusNl/meal-recipe-react-app): Meal Recipe App is a React frontend project that helps users discover, view, and favorite recipes from TheMealDB, built with React and Context API.
 - [**Weather App**](https://github.com/mustafadurmusNl/weatherApp):WeatherApp provides real-time weather updates for any city, with quick access to predefined locations and relevant background images.
 
 ---
