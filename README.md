@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MUstafa Durmus!
+# 👋 Hi, I'm Mustafa Durmus!
 
 Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong background in mathematics and a love for coding.
 
@@ -6,26 +6,46 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong ba
 
 ## 🚀 Highlighted Projects
 Here are some of my favorite projects:
-- [**Book Cafe**](https://c48-group-b-65d4744c77ac.herokuapp.com/): full stack app.
-- [**Project Name 2**](https://github.com/yourusername/project2): Brief description of the project.
-- [**Project Name 3**](https://github.com/yourusername/project3): Brief description of the project.
+- [**Book Cafe**](https://github.com/mustafadurmusNl/Book-Cafe):Book Cafe is a full-stack React and Node.js app offering personalized book suggestions, author recommendations, and online reading options for a fast, tailored, and seamless book exploration experience.
+- [**Meal Recipe App**]([https://github.com/yourusername/project2](https://github.com/mustafadurmusNl/meal-recipe-react-app)): Meal Recipe App is a React frontend project that helps users discover, view, and favorite recipes from TheMealDB, built with React and Context API.
+- [**Weather App**](https://github.com/mustafadurmusNl/weatherApp):WeatherApp provides real-time weather updates for any city, with quick access to predefined locations and relevant background images.
 
 ---
 
-## 💻 Skills
-### Technologies I’ve Learned
-- **Programming Languages:** Java, JavaScript
-- **Frontend:** React, HTML/CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Testing:** Cucumber BDD
+## 💻 My Skills
+### Programming Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Testing:
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafadurmusnl&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadurmusnl&layout=compact&theme=radical)
 
 ---
 
 ## 📚 Learning Journey
 ### Currently Learning:
 - **Cypress**: End-to-end testing.
-  
+
 ---
 
 ## 🌟 Future Plans
@@ -36,6 +56,4 @@ Here are some of my favorite projects:
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [GitHub](https://github.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-durmus-nl/)
