@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong ba
 
 ## 🚀 Highlighted Projects
 Here are some of my favorite projects:
-- [**Book Cafe**](https://github.com/mustafadurmusNl/Book-Cafe):Book Cafe is a full-stack React and Node.js app offering personalized book suggestions, author recommendations, and online reading options for a fast, tailored, and seamless book exploration experience.
+- [**Book Cafe**](https://github.com/mustafadurmusNl/Book-Cafe): Book Cafe is a full-stack React and Node.js app offering personalized book suggestions, author recommendations, and online reading options for a fast, tailored, and seamless book exploration experience.
 - [**Meal Recipe App**](https://github.com/mustafadurmusNl/meal-recipe-react-app): Meal Recipe App is a React frontend project that helps users discover, view, and favorite recipes from TheMealDB, built with React and Context API.
-- [**Weather App**](https://github.com/mustafadurmusNl/weatherApp):WeatherApp provides real-time weather updates for any city, with quick access to predefined locations and relevant background images.
+- [**Weather App**](https://github.com/mustafadurmusNl/weatherApp): WeatherApp provides real-time weather updates for any city, with quick access to predefined locations and relevant background images.
 
 ---
 
@@ -16,6 +16,7 @@ Here are some of my favorite projects:
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,6 +46,7 @@ Here are some of my favorite projects:
 ## 📚 Learning Journey
 ### Currently Learning:
 - **Cypress**: End-to-end testing.
+- **TypeScript**: Strongly typed JavaScript for scalable and maintainable codebases.
 
 ---
 
